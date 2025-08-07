@@ -118,7 +118,7 @@ transition: width 0.3s ease; /* Animação suave */
 }
 
 .nav-links a:hover::after {
-      width: 100%; /* Expande o sublinhado */
+     width: 100%; /* Expande o sublinhado */
 }
 
 .nav-actions {
